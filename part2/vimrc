@@ -1,0 +1,12 @@
+colorscheme koehler
+set number
+set showmatch
+set smartindent
+set shiftwidth=4
+set tabstop=4
+
+map <F6> :w <bar> exec
+\ '!g++ ' .shellescape('%').
+\ ' -o ' .shellescape('%:r').
+\ ' -std=c++11 `fltk-config --ldflags` '
+\ ' && ./' .shellescape('%:r') <CR>
