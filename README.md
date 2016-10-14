@@ -1,7 +1,7 @@
 # fltk
 
 In this tutorial we see an introduction on how to make a graphical user interface (GUI) using C++ and the Fast Light Toolkit library:
-https://www.youtube.com/watch?v=y4c-EtRuS14&list=PLaQInqV2NKlGrTSFD8jv0G_T1lNQzyzzf
+https://www.youtube.com/watch?v=ScNcE3SvNks&index=1&list=PLaQInqV2NKlGrTSFD8jv0G_T1lNQzyzzf
 
 Our purpose in this tutorial is to simulate the collisions of circular objects moving at constant speed.
 
